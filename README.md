@@ -1,2 +1,2 @@
-# dio-clone-netflix
+Clone Netflix - DIO
 Clone Netflix
