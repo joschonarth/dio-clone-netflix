@@ -1,26 +1,26 @@
-# Netflix Clone
+# 🎬 Netflix Clone
 
 Este é um projeto de clone da interface da Netflix desenvolvido utilizando HTML, CSS e JavaScript. O objetivo é replicar a experiência visual da plataforma de streaming, com destaque para um filme principal e um carrossel de filmes.
 
-## Demonstração
+## 🌟 Demonstração
 
 ![Demonstração do Projeto](img/netflix-homepage.png)
 ![Demonstração do Projeto](img/netflix-carousel.png)
 
-## Funcionalidades
+## 🔥 Funcionalidades
 
 - **Página inicial** com destaque para um filme principal.
 - **Carrossel de filmes** com navegação interativa.
 - **Design responsivo** que se adapta a diferentes tamanhos de tela.
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**: Estrutura da página.
 - **CSS3**: Estilização e layout.
 - **JavaScript**: Configuração do carrossel e interações.
 - **Owl Carousel**: Biblioteca para o carrossel de filmes.
 
-## Estrutura do Projeto
+## 🗂️ Estrutura do Projeto
 
 ```bash
 .
@@ -41,7 +41,7 @@ Este é um projeto de clone da interface da Netflix desenvolvido utilizando HTML
 └── README.md
 ```
 
-## Como Executar o Projeto
+## 🚀 Como Executar o Projeto
 
 1. Clone o repositório:
 
@@ -58,12 +58,12 @@ cd netflix-clone
 3. Abra o arquivo `index.html` no navegador.
 
 
-## Bibliotecas e Dependências
+## 📚 Bibliotecas e Dependências
 
 * [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 
 
-## Melhorias Futuras
+## 💡 Melhorias Futuras
 
 * Implementação de uma API para carregar dinamicamente os filmes.
 * Adição de sistema de autenticação e usuários.
@@ -71,7 +71,7 @@ cd netflix-clone
 
 
 
-## Contato 📞
+## 📞 Contato 
 
 <div>
     <a href="https://www.linkedin.com/in/joschonarth/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
